@@ -14,6 +14,8 @@
 		604B513B24CA3EB300CD1CDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 604B513A24CA3EB300CD1CDA /* Assets.xcassets */; };
 		604B513E24CA3EB300CD1CDA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 604B513D24CA3EB300CD1CDA /* Preview Assets.xcassets */; };
 		604B514124CA3EB300CD1CDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 604B513F24CA3EB300CD1CDA /* LaunchScreen.storyboard */; };
+		60B98E7824CD06F200EFF59D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B98E7724CD06F200EFF59D /* DetailView.swift */; };
+		60B98E7A24CD2D9E00EFF59D /* SecondDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B98E7924CD2D9E00EFF59D /* SecondDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		604B513D24CA3EB300CD1CDA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		604B514024CA3EB300CD1CDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		604B514224CA3EB300CD1CDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60B98E7724CD06F200EFF59D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		60B98E7924CD2D9E00EFF59D /* SecondDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				604B513124CA3EB100CD1CDA /* AppDelegate.swift */,
 				604B513324CA3EB100CD1CDA /* SceneDelegate.swift */,
 				604B513824CA3EB100CD1CDA /* ContentView.swift */,
+				60B98E7724CD06F200EFF59D /* DetailView.swift */,
+				60B98E7924CD2D9E00EFF59D /* SecondDetailView.swift */,
 				604B513A24CA3EB300CD1CDA /* Assets.xcassets */,
 				604B513F24CA3EB300CD1CDA /* LaunchScreen.storyboard */,
 				604B514224CA3EB300CD1CDA /* Info.plist */,
@@ -152,7 +158,9 @@
 				604B513224CA3EB100CD1CDA /* AppDelegate.swift in Sources */,
 				604B513724CA3EB100CD1CDA /* FriendBook.xcdatamodeld in Sources */,
 				604B513924CA3EB100CD1CDA /* ContentView.swift in Sources */,
+				60B98E7824CD06F200EFF59D /* DetailView.swift in Sources */,
 				604B513424CA3EB100CD1CDA /* SceneDelegate.swift in Sources */,
+				60B98E7A24CD2D9E00EFF59D /* SecondDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
